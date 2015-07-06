@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+
+.envrc
+.idea
+.pyc
+
+cookie_all_basic.csv
+cookie_df.pkl
+dataconnections.png
+dev_test_basic.csv
+dev_train_basic.csv
+device_test_df.pkl
+device_training_df.pkl
+devices.png
+id_all_ip 2.csv
+id_all_ip.csv
+id_all_ip.csv.gz
+id_all_ip_df.pkl
+id_all_property 2.csv
+id_all_property 3.csv
+id_all_property.csv
+id_all_property.csv.gz
+ipagg_all.csv
+ipagg_df.pkl
+kaggle.png
+property_category.csv
+property_category_corrected.csv
+property_category_corrected.csv.gz
+property_category_df.pkl
+sampleSubmission.csv
+
+.direnv/
